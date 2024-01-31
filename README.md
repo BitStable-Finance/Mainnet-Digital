@@ -3,15 +3,15 @@
 ### Disclaimer
 The statement issued by [Mainnet Digital](https://mainnet.digital) is provided for informational purposes only. By accessing and reviewing 
 this account statement, you acknowledge and agree to the terms and conditions outlined in this disclaimer. 
-[Mainnet Digital](https://mainnet.digital) has made every effort to ensure the accuracy and completeness of the information presented in 
+Mainnet Digital has made every effort to ensure the accuracy and completeness of the information presented in 
 this account statement. However, we do not provide a guarantee regarding the accuracy, timeliness, or 
 reliability of the information. Any reliance you place on the information contained in this statement is done at
 your own risk. The account statement may contain confidential and sensitive information, and it is your 
-responsibility to ensure the security and confidentiality of such information. [Mainnet Digital](https://mainnet.digital) shall not be held 
-liable for any unauthorized access, use, or disclosure of your account statement. Additionally, [Mainnet Digital](https://mainnet.digital) 
+responsibility to ensure the security and confidentiality of such information. Mainnet Digital shall not be held 
+liable for any unauthorized access, use, or disclosure of your account statement. Additionally, Mainnet Digital 
 reserves the right to modify, update, or discontinue any aspect of this account statement without prior notice. 
 We are under no obligation to update the information in this statement to reflect any changes or developments 
-after the date of issuance. [Mainnet Digital](https://mainnet.digital) reserves all rights not expressly granted in this disclaimer.
+after the date of issuance. Mainnet Digital reserves all rights not expressly granted in this disclaimer.
 
 ### Bitstable
 

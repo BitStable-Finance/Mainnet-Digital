@@ -1,4 +1,4 @@
-# MAINNET DIGITAL(https://mainnet.digital) ASSET OVERVIEW REPORT
+# MAINNET DIGITAL ASSET OVERVIEW REPORT
 
 ### Disclaimer
 The statement issued by [Mainnet Digital](https://mainnet.digital) is provided for informational purposes only. By accessing and reviewing 

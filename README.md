@@ -1,4 +1,5 @@
 # MAINNET DIGITAL ASSET OVERVIEW REPORT
+> For the latest reports, follow the X Account: [bssbstable](https://twitter.com/bssbstable) and TG: [bitstable](https://t.me/bitstable) groups.
 
 ### Disclaimer
 The statement issued by [Mainnet Digital](https://mainnet.digital) is provided for informational purposes only. By accessing and reviewing 
